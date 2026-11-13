@@ -4,6 +4,8 @@ let estudante={
     idade:15,
     curso: 'analise d. sistemas'
 }
+ estudante.idade=15;
+ console.log(estudante.idade)
  
 //atividade 2//
 estudante.semestre = 'primeiro semestre'
